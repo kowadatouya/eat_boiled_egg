@@ -1,0 +1,15 @@
+@startwbs ゆで卵を作るWBS
+title ゆで卵を作るWBS
+
+* ゆで卵を食べる
+**[#pink] 卵を買う
++++[#SkyBlue] 銀行でお金をおろす
++++[#SkyBlue] スーパーで卵を買う
+**[#pink] ゆで卵を作る
++++[#SkyBlue] 卵を洗う
++++[#SkyBlue] お湯を沸かす
++++[#SkyBlue] 卵をゆでる
+**[#pink] 食べる準備をする
++++[#SkyBlue] 腹筋して腹を減らす
++++[#SkyBlue] 殻を割る
++++[#SkyBlue] 塩を振る
