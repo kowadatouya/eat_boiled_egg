@@ -1,0 +1,15 @@
+@startuml ゆで卵を作る
+title ゆで卵を作る
+start
+fork
+:卵を買う;
+:スーパーで卵を買う;
+:卵を洗う;
+fork again
+:お湯を沸かす;
+end fork
+:卵をゆでる;
+:殻を割る;
+:塩を振る;
+stop
+@enduml
